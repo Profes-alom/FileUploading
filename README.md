@@ -40,14 +40,7 @@ Start the server(backend)
   nodemon index.js
 ```
 
-## Screenshots
 
-![image_alt](https://github.com/Profes-alom/FileUploading/blob/main/Screenshot%202025-02-25%20210533.png?raw=true
-)
-
-![image_alt](https://github.com/Profes-alom/FileUploading/blob/main/Screenshot%202025-02-25%20210616.png?raw=true)
-
-![image_alt](https://github.com/Profes-alom/FileUploading/blob/main/Screenshot%202025-02-25%20210648.png?raw=true)
 
 
 
