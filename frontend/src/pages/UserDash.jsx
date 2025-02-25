@@ -5,6 +5,7 @@ import { MdOutlineDelete } from "react-icons/md";
 import { SlLogout } from "react-icons/sl";
 import { FaRegPenToSquare } from "react-icons/fa6";
 import { RiLockPasswordLine } from "react-icons/ri";
+import { FaFileUpload } from "react-icons/fa";
 
 
 
@@ -104,6 +105,7 @@ export default function UserDash(){
          <h1>Username : {user.username}</h1>
          <h1>Email: {user.email}</h1>
          <div className="flex ">
+         <button className="border p-2 mt-5 mx-6 cursor-pointer" onClick={()=>{navigate('/uploadPage')}}><FaFileUpload size={25}/></button>
          <button className="border p-2 mt-5 mx-6 cursor-pointer" onClick={handleForgotPassword}>< RiLockPasswordLine size={25} /></button>
           <button className="border p-2 mt-5 mx-6 cursor-pointer" onClick={()=>{
             setModalOpen(!isModalOpen)

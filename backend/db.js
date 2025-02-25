@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 
 const connectDB = async()=>{
   try {
-    await mongoose.connect("mongodb://localhost:27017/UMP")   
+    await mongoose.connect("mongodb://localhost:27017/UPLOAD")   
 } catch (error) {
   console.log("ERROR: ",error);
 } };

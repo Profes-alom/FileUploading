@@ -19,13 +19,13 @@ export default function Signup(){
    async function handleSignIn(e){
     e.preventDefault();
     try {
-      //  await axios.post("http://localhost:3000/api/v1/user/signup",{
-      //  username,email,password
-      // },{withCredentials:true})
+        await axios.post("http://localhost:3000/api/v1/user/signup",{
+        username,email,password
+       },{withCredentials:true})
 
-      // alert("Account created successfully")
+       alert("Account created successfully")
 
-       navigate("/uploadPage")
+       navigate("/userDashboard")
     } catch (error) {
         console.log("error in sign up",error)
         alert("Sign up failed");
