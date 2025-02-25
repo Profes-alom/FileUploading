@@ -1,4 +1,4 @@
-# UMP(user management project)
+File Upload
 
 This project is a MERN stack admin dashboard with full user authentication, role-based access control, and password reset functionality. The application allows admin users to manage users (view, delete), while regular users can sign up, and reset their passwords.
 
