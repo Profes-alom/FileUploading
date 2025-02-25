@@ -14,13 +14,6 @@
 
 **Email service:** Nodemailer
 
-## Run Locally
-
-Clone the project
-
-```bash
-  https://github.com/prithu64/UMP.git
-```
 
 Go to the project directory(frontend & backend)
 
