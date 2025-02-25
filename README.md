@@ -42,8 +42,8 @@ Start the server(backend)
 
 ## Screenshots
 
-https://github.com/Profes-alom/FileUploading/blob/main/Screenshot%202025-02-25%20210533.png?raw=true
-
+![image_alt](https://github.com/Profes-alom/FileUploading/blob/main/Screenshot%202025-02-25%20210533.png?raw=true
+)
 
 ![Screenshot 2025-02-13 161939](https://github.com/user-attachments/assets/914e47eb-63e4-45a3-a18c-98066c246120)
 
